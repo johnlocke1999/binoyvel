@@ -1,0 +1,24 @@
+
+
+h1{
+  color:brown
+}
+#ret{
+ margin-left:"300px";
+ color:"green";
+ font-Size:"100px";
+ font-weight:"bold";
+}
+#formdiv
+{
+border:solid black; 
+border-radius: 10px;
+padding: 20px 20px 20px 20px;
+width: 600px;
+/* height: 450px; */
+color: green;
+font-weight: 400;
+}
+.lb{
+  color:black;
+}
